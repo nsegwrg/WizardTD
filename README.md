@@ -1,5 +1,7 @@
 # scaffold
 
+https://github.com/nsegwrg/scaffold/assets/149224257/0cd7a9c7-08ea-48fb-baaf-004e647aa439
+
 For this assignment, Java 8 was used with Processing library for graphics – which is incredibly useful for UI. Gradle was used to build the project, 
 which makes handling dependencies and tasks a lot easier. The structure of the project is rooted in OOP (object-oriented programming). The 'App' class 
 is the main application for the game – it extends 'PApplet', which is part of Processing and sets up the game window, handles drawing, keys and the mouse. 
@@ -23,6 +25,11 @@ unctionality of the rest of the game, which performs as expected. The code's str
 The inspiration for some of the designs and methodology was taken from the following  tower defense games, that utilize processing to an extent: 
 https://github.com/akareen/Gremlins-Sprite-Game/blob/master/src/main/java/gremlins/App.java
 https://github.com/bljessica/Java-PacMan/blob/master/src/game/roles/Monster.java
+
+![UML_Diagram](https://github.com/nsegwrg/scaffold/assets/149224257/054b4428-efb8-48c4-ab42-c78f0d7aa779)
+
+
+
 
 
 
